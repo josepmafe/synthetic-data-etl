@@ -15,7 +15,7 @@ See [`./src/etl.py`](./src/etl.py) script for the ETL source code.
 ## Output file sample
 The ETL script generates an output file [`./data/output/out_data.csv`](./data/output/out_data.csv). Check the [`./notebooks/eda.ipynb`](./notebooks/eda.ipynb) notebook, or see the image below for a sample of the output data.
 
-![output file sample](./images/out_sample.png)
+![output file sample](./images/output_sample.png)
 
 ## About the ETL process
 
